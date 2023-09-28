@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-20 20:55+0330\n"
+"PO-Revision-Date: 2023-09-20 20:55+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-admin-menus.php:14 includes/class-admin-menus.php:15
+#: templates/admin/importer.php:96 templates/admin/settings.php:61
+msgid "Importer"
+msgstr "درون ریز"
+
+#: includes/class-admin-menus.php:23 includes/class-admin-menus.php:24
+#: templates/admin/settings.php:5
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/hooks.php:37
+msgid "Advertisings"
+msgstr "آگهی ها"
+
+#: includes/hooks.php:38
+msgid "Advertising"
+msgstr "آگهی"
+
+#: includes/hooks.php:39
+msgid "Add new"
+msgstr "افزودن جدید"
+
+#: includes/hooks.php:40
+msgid "Add new advertising"
+msgstr "آگهی جدید اضافه کنید"
+
+#: includes/hooks.php:41
+msgid "Edit advertising"
+msgstr "ویرایش آگهی"
+
+#: includes/hooks.php:42
+msgid "New advertising"
+msgstr "آگهی جدید"
+
+#: includes/hooks.php:43
+msgid "View advertising"
+msgstr "مشاهده آگهی"
+
+#: includes/hooks.php:44
+msgid "Search advertisings"
+msgstr "جستجوی آگهی"
+
+#: includes/hooks.php:59 includes/hooks.php:60
+#: templates/shortcodes/search-form.php:50
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: includes/hooks.php:61 includes/hooks.php:62
+msgid "Search categories"
+msgstr "جستجوی دسته بندی ها"
+
+#: includes/hooks.php:63
+msgid "All categories"
+msgstr "همه دسته بندی ها"
+
+#: includes/hooks.php:64
+msgid "Parent category"
+msgstr "دسته بندی مادر"
+
+#: includes/hooks.php:65
+msgid "Parent category:"
+msgstr "دسته بندی مادر:"
+
+#: includes/hooks.php:66
+msgid "Edit category"
+msgstr "ویرایش دسته بندی"
+
+#: includes/hooks.php:67
+msgid "Update category"
+msgstr "بروزرسانی دسته بندی"
+
+#: includes/hooks.php:68
+msgid "Add New category"
+msgstr "افزودن دسته بندی جدید"
+
+#: includes/hooks.php:69
+msgid "New category Name"
+msgstr "نام دسته بندی جدید"
+
+#: includes/hooks.php:75 includes/hooks.php:76
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: includes/hooks.php:77 includes/hooks.php:78
+msgid "Search tags"
+msgstr "جستجوی برچسب ها"
+
+#: includes/hooks.php:79
+msgid "All tags"
+msgstr "همه برچسب ها"
+
+#: includes/hooks.php:80
+msgid "Parent tag"
+msgstr "برچسب مادر"
+
+#: includes/hooks.php:81
+msgid "Parent tag:"
+msgstr "برچسب مادر:"
+
+#: includes/hooks.php:82
+msgid "Edit tag"
+msgstr "ویرایش برچسب"
+
+#: includes/hooks.php:83
+msgid "Update tag"
+msgstr "به روزرسانی برچسب"
+
+#: includes/hooks.php:84
+msgid "Add New tag"
+msgstr "اضافه کردن برچسب"
+
+#: includes/hooks.php:85
+msgid "New tag Name"
+msgstr "نام برچسب جدید"
+
+#: includes/hooks.php:91 includes/hooks.php:92
+msgid "Locations"
+msgstr "مناطق"
+
+#: includes/hooks.php:93 includes/hooks.php:94
+msgid "Search locations"
+msgstr "جستجوی مناطق"
+
+#: includes/hooks.php:95
+msgid "All locations"
+msgstr "همه مناطق"
+
+#: includes/hooks.php:96
+msgid "Parent location"
+msgstr "منطقه مادر"
+
+#: includes/hooks.php:97
+msgid "Parent location:"
+msgstr "منطقه مادر:"
+
+#: includes/hooks.php:98
+msgid "Edit location"
+msgstr "ویرایش منطقه"
+
+#: includes/hooks.php:99
+msgid "Update location"
+msgstr "بروزرسانی منطقه"
+
+#: includes/hooks.php:100
+msgid "Add New location"
+msgstr "افزودن منطقه جدید"
+
+#: includes/hooks.php:101
+msgid "New location Name"
+msgstr "نام منطقه جدید"
+
+#: includes/hooks.php:154
+msgid "Information"
+msgstr "اطلاعات"
+
+#: includes/hooks.php:203
+msgid "Advertising information"
+msgstr "اطلاعات آگهی"
+
+#: templates/admin/importer.php:104
+msgid "Select your file!"
+msgstr "فایل خود را انتخاب کنید!"
+
+#: templates/admin/importer.php:105
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: templates/admin/importer.php:113
+msgid "Start"
+msgstr "شروع"
+
+#: templates/admin/settings.php:13
+msgid "API key"
+msgstr "کلید API"
+
+#: templates/admin/settings.php:25
+msgid "Shortcodes"
+msgstr "کدهای کوتاه"
+
+#: templates/admin/settings.php:37
+msgid "Search form"
+msgstr "فرم جستجو"
+
+#: templates/admin/settings.php:49
+msgid "Show search result"
+msgstr "نمایش نتیجه جستجو"
+
+#: templates/admin/settings.php:73
+msgid "Default image id"
+msgstr "شناسه تصویر پیش فرض"
+
+#: templates/admin/settings.php:85
+msgid "Default map"
+msgstr "نقشه پیش فرض"
+
+#: templates/admin/settings.php:97
+msgid "Default video"
+msgstr "ویدیو پیش فرض"
+
+#: templates/admin/settings.php:109
+msgid "Search result page id"
+msgstr "شناسه صفحه نتیجه جستجو"
+
+#: templates/hooks/add_meta_boxes/information.php:20
+#: templates/hooks/widgets/advertising-information.php:11
+msgid "Municipality regional"
+msgstr "منطقه شهرداری"
+
+#: templates/hooks/add_meta_boxes/information.php:33
+#: templates/hooks/widgets/advertising-information.php:19
+msgid "District"
+msgstr "محله"
+
+#: templates/hooks/add_meta_boxes/information.php:46
+#: templates/hooks/widgets/advertising-information.php:27
+msgid "Street"
+msgstr "خیابان"
+
+#: templates/hooks/add_meta_boxes/information.php:59
+#: templates/hooks/widgets/advertising-information.php:35
+msgid "Building"
+msgstr "مجتمع"
+
+#: templates/hooks/add_meta_boxes/information.php:72
+#: templates/hooks/widgets/advertising-information.php:43
+msgid "Address"
+msgstr "آدرس"
+
+#: templates/hooks/add_meta_boxes/information.php:84
+#: templates/hooks/widgets/advertising-information.php:51
+msgid "Website"
+msgstr "وب سایت"
+
+#: templates/hooks/add_meta_boxes/information.php:97
+#: templates/hooks/add_meta_boxes/information.php:110
+#: templates/hooks/add_meta_boxes/information.php:123
+#: templates/hooks/widgets/advertising-information.php:59
+#: templates/hooks/widgets/advertising-information.php:67
+#: templates/hooks/widgets/advertising-information.php:75
+msgid "Phone"
+msgstr "تلفن"
+
+#: templates/hooks/add_meta_boxes/information.php:136
+#: templates/hooks/widgets/advertising-information.php:83
+msgid "Fax"
+msgstr "فکس"
+
+#: templates/hooks/add_meta_boxes/information.php:149
+#: templates/hooks/add_meta_boxes/information.php:162
+#: templates/hooks/widgets/advertising-information.php:91
+#: templates/hooks/widgets/advertising-information.php:99
+msgid "Cellphone"
+msgstr "تلفن همراه"
+
+#: templates/hooks/add_meta_boxes/information.php:175
+#: templates/hooks/widgets/advertising-information.php:107
+msgid "Email"
+msgstr "ایمیل"
+
+#: templates/hooks/add_meta_boxes/information.php:188
+#: templates/hooks/widgets/advertising-information.php:115
+msgid "Google map"
+msgstr "گوگل مپ"
+
+#: templates/hooks/add_meta_boxes/information.php:201
+#: templates/hooks/widgets/advertising-information.php:127
+msgid "Video"
+msgstr "ویدیو"
+
+#: templates/shortcodes/search-form.php:17
+msgid "Search in all advertisings"
+msgstr "جستجو در تمام آگهی ها"
+
+#: templates/shortcodes/search-form.php:32
+msgid "City / district"
+msgstr "شهر / محله"
+
+#~ msgid "Excel file"
+#~ msgstr "فایل اکسل"
+
+#~ msgid "Image id"
+#~ msgstr "شناسه تصویر"
+
+#~ msgid "Regional municipality"
+#~ msgstr "منطقه شهرداری"
+
+#~ msgid "Details"
+#~ msgstr "جزئیات"
+
+#~ msgid "Submenu"
+#~ msgstr "زیر منو"
+
+#~ msgid "Plugin name"
+#~ msgstr "نام افزونه"
+
+#~ msgid "Plugin description"
+#~ msgstr "توضیحات افزونه"
+
+#~ msgid "Name"
+#~ msgstr "نام"
